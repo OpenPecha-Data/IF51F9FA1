@@ -1,0 +1,80 @@
+id: IF51F9FA1
+ocr_import_info:
+  timestamp: '2023-09-29T16:05:27.404019+00:00'
+  batch_id: batch-8271
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharma Kyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-09-30 04:19:19.355110+00:00
+last_modified: 2023-09-30 04:19:19.355118+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W9683
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW9683
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། སྐལ་ལྡན་རྒྱ་མཚོ།
+  languages:
+  - bo
+  author: ཤར་སྐལ་ལྡན་རྒྱ་མཚོ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9572848318028976
+  ocr_word_median_confidence_index: 0.99733824
+bases:
+  I5167:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5167
+      total_pages: 470
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I5167.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.997027765
+      ocr_word_mean_confidence_index: 0.9558583932252029
+  I5168:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5168
+      total_pages: 474
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I5168.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9979679
+      ocr_word_mean_confidence_index: 0.9625198225790684
+  I5169:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5169
+      total_pages: 408
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I5169.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99741005
+      ocr_word_mean_confidence_index: 0.9595896029996432
+  I5170:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5170
+      total_pages: 438
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I5170.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99667734
+      ocr_word_mean_confidence_index: 0.9502918876759265
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
